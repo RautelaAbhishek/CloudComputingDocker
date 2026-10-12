@@ -1,0 +1,17 @@
+IF.txt: 295 words
+
+AlwaysRememberUsThisWay.txt: 223 words
+
+Total words: 518
+
+Top 3 words in IF.txt 
+1 - and (20 occurrences)
+2 - you (18 occurrences)
+3 - if (14 occurrences)
+
+Top 3 words in AlwaysRememberUsThisWay.txt 
+1 - i (15 occurrences)
+2 - the (13 occurrences)
+3 - not (9 occurrences)
+
+Container IP address: 192.168.56.1
